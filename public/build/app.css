@@ -2,6 +2,11 @@ html {
     background-color: #F7FAFC;
 }
 
+form {
+    background-color: lightgrey;
+    padding-top: 30px;
+}
+
 body {
     font-family: "Poppins", sans-serif;
     height: 100vh;
